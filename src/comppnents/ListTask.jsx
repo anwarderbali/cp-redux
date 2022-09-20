@@ -1,6 +1,6 @@
 
 import React from "react";
-import Task from "./Task";
+import Task from "./Tasks";
 import { connect } from "react-redux";
 
 export const ListTask = (props) => {
